@@ -1,0 +1,38 @@
+[
+    {
+        "vol": 127,
+        "duration": 0.5,
+        "startTime": 0.0,
+        "pitch": 60
+    },
+    {
+        "vol": 127,
+        "duration": 0.20,
+        "startTime": 0.5,
+        "pitch": 60
+    },
+    {
+        "vol": 127,
+        "duration": 0.20,
+        "startTime": 0.7,
+        "pitch": 60
+    },
+    {
+        "vol": 127,
+        "duration": 0.5,
+        "startTime": 0.9,
+        "pitch": 67
+    },
+    {
+        "vol": 127,
+        "duration": 0.20,
+        "startTime": 1.4,
+        "pitch": 60
+    },
+    {
+        "vol": 127,
+        "duration": 0.5,
+        "startTime": 1.6,
+        "pitch": 67
+    }
+]
