@@ -1,1 +1,1 @@
-# comp4431-audio-lab
+#### Multimedia Computing course: audio lab assignment
